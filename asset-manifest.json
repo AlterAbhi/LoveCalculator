@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/LoveCalculator/static/css/main.f05b5789.css",
+    "main.js": "/LoveCalculator/static/js/main.6e120f29.js",
+    "static/js/488.565ca737.chunk.js": "/LoveCalculator/static/js/488.565ca737.chunk.js",
+    "static/media/oooh-baby-latin-400-normal.woff2": "/LoveCalculator/static/media/oooh-baby-latin-400-normal.dd8b118d87cf3649dc91.woff2",
+    "static/media/oooh-baby-latin-ext-400-normal.woff2": "/LoveCalculator/static/media/oooh-baby-latin-ext-400-normal.4ec7464514075225193d.woff2",
+    "static/media/oooh-baby-latin-400-normal.woff": "/LoveCalculator/static/media/oooh-baby-latin-400-normal.b03b0bc950ba2a829a52.woff",
+    "static/media/oooh-baby-latin-ext-400-normal.woff": "/LoveCalculator/static/media/oooh-baby-latin-ext-400-normal.cd47885c9133cf065ba6.woff",
+    "static/media/oooh-baby-vietnamese-400-normal.woff2": "/LoveCalculator/static/media/oooh-baby-vietnamese-400-normal.1d6a824f8549fcb4bcc6.woff2",
+    "static/media/oooh-baby-vietnamese-400-normal.woff": "/LoveCalculator/static/media/oooh-baby-vietnamese-400-normal.fb3037c1775bbb4156b4.woff",
+    "index.html": "/LoveCalculator/index.html",
+    "main.f05b5789.css.map": "/LoveCalculator/static/css/main.f05b5789.css.map",
+    "main.6e120f29.js.map": "/LoveCalculator/static/js/main.6e120f29.js.map",
+    "488.565ca737.chunk.js.map": "/LoveCalculator/static/js/488.565ca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f05b5789.css",
+    "static/js/main.6e120f29.js"
+  ]
+}
